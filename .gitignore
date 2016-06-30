@@ -1,0 +1,8 @@
+/docs/**/*.local
+.idea/workspace.xml
+.idea
+target
+out
+*.iml
+.project
+/logs
